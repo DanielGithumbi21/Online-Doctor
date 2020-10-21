@@ -1,0 +1,20 @@
+.container-fluid {
+  width: 90%;
+  background-color: azure;
+  margin-top: 2%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+   label {
+    font-family: sans-serif;
+    padding-top: 10px;
+    font-weight: 520;
+    font-size: 18px;
+    color: darkslategrey;
+  }
+  .btn {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+}
